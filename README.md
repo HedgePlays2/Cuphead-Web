@@ -1,2 +1,2 @@
 # Cuphead-Web
-Cup Head web
+Cup Head web from trufuled.lol
